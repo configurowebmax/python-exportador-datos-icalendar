@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Exportador de Datos a iCalendar 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-exportador-datos-icalendar/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-exportador-datos-icalendar/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-exportador-datos-icalendar/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Formato iCalendar estándar para un evento de cita.
 
 ## 🚀 Probar la aplicación
 
